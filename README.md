@@ -1,4 +1,4 @@
-### Bull Market or Bear Market: Recession Time Series Prediction for Q1 2024
+### Bull Market or Bear Market: Time Series Price Prediction for Q1 2024
 
 This project is a part of the ADS-506 course in the Applied Data Science Program at the University of San Diego.
 ### Project Status: [Planned, Active, On-hold, Completed]
@@ -9,7 +9,7 @@ Required machine:
 
 
 ### Project Intro/Objective
-The motivation for choosing this project is ________. Describe the goals of the project and potential impacts. Mention the needs/applications of your project clearly. Limit to one/two short paragraph(s).
+The motivation for choosing this project is to predict Q1 2024 market fluctation. Describe the goals of the project and potential impacts. Mention the needs/applications of your project clearly. Limit to one/two short paragraph(s).
 
 The motivation for choosing this project is Financial markets and their subsequent investment vehicles present significant opportunity to manage risk and build capital. Through deeper understanding of the underlying characteristics of the markets and these vehicles, we may be able to leverage our growing knowledge of time series analysis to decompose price movements by price level, price trend, quarterly seasonality, and noise. Furthermore, understanding what may influence these components further aims to strengthen our ability to perform time series price prediction to manage risk and build capital.
 
