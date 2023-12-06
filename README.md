@@ -1,7 +1,7 @@
 ### Bull Market or Bear Market: Recession Time Series Prediction for Q1 2024
 
 This project is a part of the ADS-506 course in the Applied Data Science Program at the University of San Diego.
-### Project Status: [Planned, Active, On-hold, Completed]
+### Project Status: [Completed]
 
 ### Installation
 Project is developed with Python. 
